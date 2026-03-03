@@ -46,4 +46,4 @@ Passwords are physically zeroed in RAM on scope exit using the `zeroize` crate.
 
 **Find me**
 
-[LinkedIn](https://linkedin.com/in/carlospericaro) · [TryHackMe](https://tryhackme.com) · Campo Mourao, PR, Brazil
+[LinkedIn](https://linkedin.com/in/carlospericaro) · Campo Mourao, PR, Brazil
