@@ -61,7 +61,7 @@ CLI password manager written in Rust. AES-256-GCM encryption, Argon2id key deriv
 | | Reading | Writing | Speaking |
 |---|---|---|---|
 | Portuguese | Native | Native | Native |
-| English | C1 | B2 | B1 |
+| English | C1 | C1 | B1 |
 
 > Technical documentation, codebases, and written communication in English are handled without difficulty. Conversation and listening at professional pace are functional but still developing.
 
